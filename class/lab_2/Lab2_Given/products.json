@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "65b5557a5058733967f5b815"
+  },
+  "name": "Product 2",
+  "price": 10,
+  "description": "Product 2 description",
+  "images": [
+    {
+      "url": "images/product5.png",
+      "caption": "Product 5",
+      "_id": {
+        "$oid": "65b5557a5058733967f5b816"
+      },
+      "createdAt": {
+        "$date": "2024-01-27T19:11:54.851Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T19:11:54.851Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "rate": 5,
+      "text": "Good",
+      "author": "HoangNN",
+      "_id": {
+        "$oid": "65b5557a5058733967f5b817"
+      },
+      "createdAt": {
+        "$date": "2024-01-27T19:11:54.852Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T19:11:54.852Z"
+      }
+    },
+    {
+      "rate": 5,
+      "text": "Very good",
+      "author": "DungPT",
+      "_id": {
+        "$oid": "65b5557a5058733967f5b818"
+      },
+      "createdAt": {
+        "$date": "2024-01-27T19:11:54.852Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T19:11:54.852Z"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "65b52089c73b4cedee28eb02"
+  },
+  "createdAt": {
+    "$date": "2024-01-27T19:11:54.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-27T19:11:54.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b558c6ab40ed82dd177ef8"
+  },
+  "name": "Product 1",
+  "price": 15,
+  "description": "Product 1 description",
+  "images": [
+    {
+      "url": "images/product1.png",
+      "caption": "Product 1",
+      "_id": {
+        "$oid": "65b558c6ab40ed82dd177ef9"
+      },
+      "createdAt": {
+        "$date": "2024-01-27T19:25:58.163Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T19:25:58.163Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "rate": 5,
+      "text": "Good",
+      "author": "HoangNN",
+      "_id": {
+        "$oid": "65b558c6ab40ed82dd177efa"
+      },
+      "createdAt": {
+        "$date": "2024-01-27T19:25:58.165Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T19:25:58.165Z"
+      }
+    },
+    {
+      "rate": 5,
+      "text": "Very good",
+      "author": "DungPT",
+      "_id": {
+        "$oid": "65b558c6ab40ed82dd177efb"
+      },
+      "createdAt": {
+        "$date": "2024-01-27T19:25:58.165Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-27T19:25:58.165Z"
+      }
+    }
+  ],
+  "category": {
+    "$oid": "65b5205fc73b4cedee28eafe"
+  },
+  "createdAt": {
+    "$date": "2024-01-27T19:25:58.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-27T19:25:58.166Z"
+  },
+  "__v": 0
+}]

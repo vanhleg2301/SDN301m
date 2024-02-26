@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65b5205fc73b4cedee28eafe"
+  },
+  "name": "Cat 1",
+  "description": "Cat 1 description",
+  "createdAt": {
+    "$date": "2024-01-27T15:25:19.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-27T15:25:19.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b52089c73b4cedee28eb02"
+  },
+  "name": "Cat 2",
+  "description": "Cat 2 description",
+  "createdAt": {
+    "$date": "2024-01-27T15:26:01.059Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-27T15:26:01.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5208ec73b4cedee28eb04"
+  },
+  "name": "Cat 3",
+  "description": "Cat 3 description",
+  "createdAt": {
+    "$date": "2024-01-27T15:26:06.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-27T15:26:06.813Z"
+  },
+  "__v": 0
+}]

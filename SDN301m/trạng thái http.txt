@@ -1,0 +1,7 @@
+1xx - information 
+2xx - Thành công
+3xx - đường dẫn
+4xx - lỗi người dùng
+5xx - server
+
+2xx (success) 3xx (redirection) 4xx (client errors) 5xx (server errors) Lỗi soft 404.
